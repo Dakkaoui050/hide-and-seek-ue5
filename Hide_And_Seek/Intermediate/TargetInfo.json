@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Hide_And_Seek",
+			"Path": "..\\Source\\Hide_And_Seek.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Hide_And_SeekEditor",
+			"Path": "..\\Source\\Hide_And_SeekEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

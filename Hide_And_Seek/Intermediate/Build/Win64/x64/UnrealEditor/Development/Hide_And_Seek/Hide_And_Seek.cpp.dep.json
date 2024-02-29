@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\dakka\\onedrive\\documenten\\github\\hide-and-seek-ue5\\hide_and_seek\\source\\hide_and_seek\\hide_and_seek.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dakka\\onedrive\\documenten\\github\\hide-and-seek-ue5\\hide_and_seek\\intermediate\\build\\win64\\x64\\hide_and_seekeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\dakka\\onedrive\\documenten\\github\\hide-and-seek-ue5\\hide_and_seek\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hide_and_seek\\definitions.hide_and_seek.h",
+            "c:\\users\\dakka\\onedrive\\documenten\\github\\hide-and-seek-ue5\\hide_and_seek\\source\\hide_and_seek\\hide_and_seek.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
